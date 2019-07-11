@@ -2,7 +2,7 @@
 
 # Plate Reader Inverters Data Analysis 
 
-Code and notebooks to analyze data from plate reader assays which involves proteic and CRISPRi inverters
+Code and notebooks to analyze data from plate reader assays.
 
 ## Overview
 
